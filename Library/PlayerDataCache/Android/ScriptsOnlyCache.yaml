@@ -107,57 +107,57 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 1526}
+    - Class: 114
       Script: {instanceID: 1528}
     - Class: 114
-      Script: {instanceID: 1530}
+      Script: {instanceID: 1662}
     - Class: 114
-      Script: {instanceID: 1664}
+      Script: {instanceID: 1836}
     - Class: 114
-      Script: {instanceID: 1838}
+      Script: {instanceID: 1874}
     - Class: 114
-      Script: {instanceID: 1876}
+      Script: {instanceID: 1882}
     - Class: 114
-      Script: {instanceID: 1884}
+      Script: {instanceID: 2482}
     - Class: 114
-      Script: {instanceID: 2484}
+      Script: {instanceID: 2520}
     - Class: 114
-      Script: {instanceID: 2522}
+      Script: {instanceID: 2548}
     - Class: 114
-      Script: {instanceID: 2550}
+      Script: {instanceID: 2776}
     - Class: 114
-      Script: {instanceID: 2778}
+      Script: {instanceID: 3154}
     - Class: 114
-      Script: {instanceID: 3156}
+      Script: {instanceID: 3436}
     - Class: 114
-      Script: {instanceID: 3438}
+      Script: {instanceID: 3450}
     - Class: 114
-      Script: {instanceID: 3452}
+      Script: {instanceID: 3578}
     - Class: 114
-      Script: {instanceID: 3580}
+      Script: {instanceID: 3778}
     - Class: 114
-      Script: {instanceID: 3780}
+      Script: {instanceID: 4022}
     - Class: 114
-      Script: {instanceID: 4024}
+      Script: {instanceID: 4172}
     - Class: 114
-      Script: {instanceID: 4174}
+      Script: {instanceID: 4588}
     - Class: 114
-      Script: {instanceID: 4590}
+      Script: {instanceID: 4594}
     - Class: 114
-      Script: {instanceID: 4596}
+      Script: {instanceID: 4638}
     - Class: 114
-      Script: {instanceID: 4640}
+      Script: {instanceID: 4834}
     - Class: 114
-      Script: {instanceID: 4836}
+      Script: {instanceID: 4918}
     - Class: 114
-      Script: {instanceID: 4920}
+      Script: {instanceID: 5232}
     - Class: 114
-      Script: {instanceID: 5234}
+      Script: {instanceID: 5402}
     - Class: 114
-      Script: {instanceID: 5404}
+      Script: {instanceID: 5604}
     - Class: 114
-      Script: {instanceID: 5606}
-    - Class: 114
-      Script: {instanceID: 6006}
+      Script: {instanceID: 6004}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -795,7 +795,7 @@ ScriptsOnlyBuild:
     className: HTCViveControllerProfile
   - hash:
       serializedVersion: 2
-      Hash: 3e1710c1a3733d6865fab8bd25585e18
+      Hash: b6aa6f6992bd831de6df493dac288dba
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: NetworkPlayer

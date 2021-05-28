@@ -20,7 +20,7 @@ public class NetworkManager : MonoBehaviourPunCallbacks
 
     public override void OnConnectedToMaster()
     {
-        Debug.Log("Connected to Sever!");
+        Debug.Log("Connected to Server!");
         base.OnConnectedToMaster();
         RoomOptions roomOptions = new RoomOptions();
         roomOptions.MaxPlayers = 4;
