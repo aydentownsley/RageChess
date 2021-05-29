@@ -31,6 +31,8 @@ ScriptsOnlyBuild:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.XR.Interaction.Toolkit.dll:
     - UnityEngine.XR.Interaction.Toolkit.XRController
+    - UnityEngine.XR.Interaction.Toolkit.XRDirectInteractor
+    - UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable
     - UnityEngine.XR.Interaction.Toolkit.XRInteractionManager
     - UnityEngine.XR.Interaction.Toolkit.XRRig
     Unity.XR.Management.Editor.dll:
@@ -111,53 +113,57 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1528}
     - Class: 114
-      Script: {instanceID: 1662}
+      Script: {instanceID: 1664}
     - Class: 114
-      Script: {instanceID: 1836}
+      Script: {instanceID: 1838}
     - Class: 114
-      Script: {instanceID: 1874}
+      Script: {instanceID: 1876}
     - Class: 114
-      Script: {instanceID: 1882}
+      Script: {instanceID: 1884}
     - Class: 114
-      Script: {instanceID: 2482}
+      Script: {instanceID: 2484}
     - Class: 114
-      Script: {instanceID: 2520}
+      Script: {instanceID: 2522}
     - Class: 114
-      Script: {instanceID: 2548}
+      Script: {instanceID: 2550}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 2778}
     - Class: 114
-      Script: {instanceID: 3154}
+      Script: {instanceID: 3156}
     - Class: 114
-      Script: {instanceID: 3436}
+      Script: {instanceID: 3438}
     - Class: 114
-      Script: {instanceID: 3450}
+      Script: {instanceID: 3452}
     - Class: 114
-      Script: {instanceID: 3578}
+      Script: {instanceID: 3580}
     - Class: 114
-      Script: {instanceID: 3778}
+      Script: {instanceID: 3780}
     - Class: 114
-      Script: {instanceID: 4022}
+      Script: {instanceID: 4024}
     - Class: 114
-      Script: {instanceID: 4172}
+      Script: {instanceID: 4058}
     - Class: 114
-      Script: {instanceID: 4588}
+      Script: {instanceID: 4174}
     - Class: 114
-      Script: {instanceID: 4594}
+      Script: {instanceID: 4190}
     - Class: 114
-      Script: {instanceID: 4638}
+      Script: {instanceID: 4590}
     - Class: 114
-      Script: {instanceID: 4834}
+      Script: {instanceID: 4596}
     - Class: 114
-      Script: {instanceID: 4918}
+      Script: {instanceID: 4640}
     - Class: 114
-      Script: {instanceID: 5232}
+      Script: {instanceID: 4836}
     - Class: 114
-      Script: {instanceID: 5402}
+      Script: {instanceID: 4920}
     - Class: 114
-      Script: {instanceID: 5604}
+      Script: {instanceID: 5234}
     - Class: 114
-      Script: {instanceID: 6004}
+      Script: {instanceID: 5404}
+    - Class: 114
+      Script: {instanceID: 5606}
+    - Class: 114
+      Script: {instanceID: 6006}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2014,4 +2020,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Test_scene.unity
-  playerPath: /Users/veritas/Unity/MulitPlayerGame/MultTest.apk
+  playerPath: C:/Users/Peyton/Documents/Unity Projects/RageChess/GrabTest.apk
