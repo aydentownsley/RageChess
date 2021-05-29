@@ -15,12 +15,12 @@ C:/Users/Peyton/Documents/Unity Projects/RageChess
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52899
+56939
 Successfully changed project path to: C:/Users/Peyton/Documents/Unity Projects/RageChess
 C:/Users/Peyton/Documents/Unity Projects/RageChess
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 40.05 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 0.89 ms.
+Refreshing native plugins compatible for Editor in 39.76 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.88 ms.
 Initialize engine version: 2020.3.10f1 (297d780c91bc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Peyton/Documents/Unity Projects/RageChess/Assets
@@ -35,25 +35,25 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001421 seconds.
+Registered in 0.001463 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 27.99 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 0.07 ms.
+Refreshing native plugins compatible for Editor in 30.23 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.216 seconds
+- Completed reload, in  1.275 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005874 seconds.
+Registered in 0.005978 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.07 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 30.26 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.08 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
@@ -66,59 +66,144 @@ NullReferenceException: Object reference not set to an instance of an object
 (Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.925 seconds
+- Completed reload, in  0.811 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 10 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.07 ms.
 Unloading 2247 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.7 MB.
-System memory in use after: 97.6 MB.
+System memory in use before: 97.8 MB.
+System memory in use after: 97.7 MB.
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2673.
-Total: 2.383400 ms (FindLiveObjects: 0.223600 ms CreateObjectMapping: 0.075700 ms MarkObjects: 2.009400 ms  DeleteObjects: 0.073900 ms)
+Total: 2.268000 ms (FindLiveObjects: 0.257500 ms CreateObjectMapping: 0.086400 ms MarkObjects: 1.848900 ms  DeleteObjects: 0.074400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/New Material.mat
-  artifactKey: Guid(d3d8e3bc220b8434997670bfc401854b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material.mat using Guid(d3d8e3bc220b8434997670bfc401854b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585a60e01c1ef17bfaf5ae705e452d78') in 0.160007 seconds
-  Import took 0.163700 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/New Material 1.mat
-  artifactKey: Guid(9da6330a4ba064499bcbee0b555d029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 1.mat using Guid(9da6330a4ba064499bcbee0b555d029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc448dadfa1e06eec42244064bd67f51') in 0.011296 seconds
-  Import took 0.015610 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 81.196223 seconds.
   path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
   artifactKey: Guid(efb19d03a3e3a4cc8989cf344a0b5dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(efb19d03a3e3a4cc8989cf344a0b5dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed259d245695294d65a29844e9f297b') in 0.006716 seconds
-  Import took 0.009749 seconds .
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(efb19d03a3e3a4cc8989cf344a0b5dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed259d245695294d65a29844e9f297b') in 0.027952 seconds
+  Import took 0.030709 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.007794 seconds.
+  Time since last request: 0.002997 seconds.
   path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
   artifactKey: Guid(efb19d03a3e3a4cc8989cf344a0b5dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(efb19d03a3e3a4cc8989cf344a0b5dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed259d245695294d65a29844e9f297b') in 0.001830 seconds
-  Import took 0.004158 seconds .
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(efb19d03a3e3a4cc8989cf344a0b5dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed259d245695294d65a29844e9f297b') in 0.001937 seconds
+  Import took 0.004596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.566303 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(3181d7417c93e4e198219fea665ddeeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(3181d7417c93e4e198219fea665ddeeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad13ddbee55aab5e9ca1c301e89d5179') in 0.004940 seconds
+  Import took 0.007765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.344338 seconds.
+  path: Assets/BrokenVector
+  artifactKey: Guid(ae31a3ccffccac44cacca20f3ce8117c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector using Guid(ae31a3ccffccac44cacca20f3ce8117c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06f0a68a92168c78bcc6d501696f1e1f') in 0.004802 seconds
+  Import took 0.007873 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.53 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2673.
+Total: 2.781600 ms (FindLiveObjects: 0.218000 ms CreateObjectMapping: 0.072100 ms MarkObjects: 2.446500 ms  DeleteObjects: 0.044500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.42 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2673.
+Total: 2.560700 ms (FindLiveObjects: 0.211600 ms CreateObjectMapping: 0.068100 ms MarkObjects: 2.237200 ms  DeleteObjects: 0.043200 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.82 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2673.
+Total: 2.837300 ms (FindLiveObjects: 0.229500 ms CreateObjectMapping: 0.045800 ms MarkObjects: 2.513500 ms  DeleteObjects: 0.047800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.41 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2673.
+Total: 2.804700 ms (FindLiveObjects: 0.402600 ms CreateObjectMapping: 0.125400 ms MarkObjects: 2.230500 ms  DeleteObjects: 0.045500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005774 seconds.
+Registered in 0.005803 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.73 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:234 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.719 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.72 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2225 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.9 MB.
+System memory in use after: 97.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2678.
+Total: 2.524600 ms (FindLiveObjects: 0.221900 ms CreateObjectMapping: 0.098000 ms MarkObjects: 2.138400 ms  DeleteObjects: 0.065500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.47 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.7 MB.
+System memory in use after: 53.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2678.
+Total: 2.130100 ms (FindLiveObjects: 0.194100 ms CreateObjectMapping: 0.068600 ms MarkObjects: 1.824200 ms  DeleteObjects: 0.042600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007300 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.08 ms.
 NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
@@ -127,338 +212,48 @@ NullReferenceException: Object reference not set to an instance of an object
 (Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.807 seconds
+- Completed reload, in  0.750 seconds
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.72 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 0.07 ms.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
 Unloading 2225 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.3 MB.
-System memory in use after: 97.5 MB.
+System memory in use before: 96.9 MB.
+System memory in use after: 97.0 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2717.
-Total: 2.601700 ms (FindLiveObjects: 0.257000 ms CreateObjectMapping: 0.109000 ms MarkObjects: 2.172700 ms  DeleteObjects: 0.062100 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2683.
+Total: 2.576100 ms (FindLiveObjects: 0.288200 ms CreateObjectMapping: 0.105900 ms MarkObjects: 2.124800 ms  DeleteObjects: 0.056400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
-Received Import Request.
-  Time since last request: 1277.373512 seconds.
-  path: Assets/BrokenVector
-  artifactKey: Guid(ae31a3ccffccac44cacca20f3ce8117c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector using Guid(ae31a3ccffccac44cacca20f3ce8117c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c495c02eed47cb1100b560c6482aea') in 0.010992 seconds
-  Import took 0.014769 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005916 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:234 
 
-========================================================================
-Received Import Request.
-  Time since last request: 1.000413 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack
-  artifactKey: Guid(302069a9828a9f745991724fe9a1c5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack using Guid(302069a9828a9f745991724fe9a1c5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e8d2f6bf5b2b032cc6fc58a6f10606') in 0.005539 seconds
-  Import took 0.008503 seconds .
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
 
-========================================================================
-Received Import Request.
-  Time since last request: 2.417516 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models
-  artifactKey: Guid(90baaa39acb7fe94ca2c626f355eae35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models using Guid(90baaa39acb7fe94ca2c626f355eae35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafa165b04b48b1ae3e66efbeda3cfd1') in 0.004876 seconds
-  Import took 0.008235 seconds .
+Mono: successfully reloaded assembly
+- Completed reload, in  0.710 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.69 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2225 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.1 MB.
+System memory in use after: 97.2 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.054504 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Bishop.dae
-  artifactKey: Guid(66ad00b166b914e47acce78daea25aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Bishop.dae using Guid(66ad00b166b914e47acce78daea25aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd43d166d83325a5e7685cab57878616') in 0.202508 seconds
-  Import took 0.205964 seconds .
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2688.
+Total: 2.658100 ms (FindLiveObjects: 0.289500 ms CreateObjectMapping: 0.104700 ms MarkObjects: 2.206700 ms  DeleteObjects: 0.056100 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/Board.dae
-  artifactKey: Guid(f10c2e64b5383f04f840dea170590ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/Board.dae using Guid(f10c2e64b5383f04f840dea170590ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304bf51db04cbf6058a866cb5f33c50e') in 0.011779 seconds
-  Import took 0.014690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/White Knight.dae
-  artifactKey: Guid(69faab6ae9c00a848a82d036ac8c75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Knight.dae using Guid(69faab6ae9c00a848a82d036ac8c75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c06bb8c8de4890ffe29b901beb8f10') in 0.012164 seconds
-  Import took 0.014997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/White Pawn.dae
-  artifactKey: Guid(6730016ba0e329c499d89e81bd550346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Pawn.dae using Guid(6730016ba0e329c499d89e81bd550346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1815b9dcc2a257ca650b284835492ebe') in 0.010702 seconds
-  Import took 0.013918 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/White King.dae
-  artifactKey: Guid(763435837405bc24691af77936be360b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/White King.dae using Guid(763435837405bc24691af77936be360b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d811ee2d53be7aed89248bc07247d5f') in 0.010958 seconds
-  Import took 0.013760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Knight.dae
-  artifactKey: Guid(639050e749c3ce444a196d84e803b067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Knight.dae using Guid(639050e749c3ce444a196d84e803b067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09f7a12949ca88924f2a998edf9dd0f') in 0.010897 seconds
-  Import took 0.013685 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/White Rook.dae
-  artifactKey: Guid(695bd15b69d9eac408b599c22f9de55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Rook.dae using Guid(695bd15b69d9eac408b599c22f9de55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163314cf334fc0721ac5ed836cf81776') in 0.011829 seconds
-  Import took 0.014817 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000141 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Rook.dae
-  artifactKey: Guid(c61872173bf5220469786c549644854f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Rook.dae using Guid(c61872173bf5220469786c549644854f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e4121e0d0fd16f1941bc338ac7b0dd0') in 0.010857 seconds
-  Import took 0.013448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Queen.dae
-  artifactKey: Guid(5d7a66b35fd81564380721b6bfcaaa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Queen.dae using Guid(5d7a66b35fd81564380721b6bfcaaa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0848166586e5d508a3af0b4a3aa30236') in 0.011538 seconds
-  Import took 0.014594 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/Black King.dae
-  artifactKey: Guid(a1edea9a41e71514f94a737abaf1410c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black King.dae using Guid(a1edea9a41e71514f94a737abaf1410c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55de1b6805ac66cc60cbb99bcdc12f7') in 0.010932 seconds
-  Import took 0.013811 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/White Bishop.dae
-  artifactKey: Guid(1e1130c2d0732f44eb82b057a9dcf58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Bishop.dae using Guid(1e1130c2d0732f44eb82b057a9dcf58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec58af9b07e511e86483a3114d0cef1d') in 0.010369 seconds
-  Import took 0.013653 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Pawn.dae
-  artifactKey: Guid(8fbcce33444d4ce4db5b61f8d0eeb7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Pawn.dae using Guid(8fbcce33444d4ce4db5b61f8d0eeb7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0b7011a45b638e2b2935cd5e99d750') in 0.012687 seconds
-  Import took 0.015617 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000156 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Models/White Queen.dae
-  artifactKey: Guid(3d88c9550087ec84c95090f5be583f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Queen.dae using Guid(3d88c9550087ec84c95090f5be583f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17045300a9ed406e24cae6ef7dd16d44') in 0.010701 seconds
-  Import took 0.013344 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.169217 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Materials
-  artifactKey: Guid(9e470a221bbbe444db32ccbad1fd4012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Materials using Guid(9e470a221bbbe444db32ccbad1fd4012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2eea13c381eeb3d322f21f97ded8334') in 0.005226 seconds
-  Import took 0.008548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.063154 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Materials/Chess Material.mat
-  artifactKey: Guid(fdf806cb46d6a40418581d1568ff1c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Materials/Chess Material.mat using Guid(fdf806cb46d6a40418581d1568ff1c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16ab210b807d6e36531cfde2434a17a') in 0.015659 seconds
-  Import took 0.018670 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.868019 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(dfde908c437f34be9a2fb24b2ec892f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(dfde908c437f34be9a2fb24b2ec892f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0adbcb2a68ab89f9a023ab659b6f81') in 0.005143 seconds
-  Import took 0.008275 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.123335 seconds.
-  path: Assets/Scenes/SampleScene
-  artifactKey: Guid(ea1341c81bd8d4e679afda932c883a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene using Guid(ea1341c81bd8d4e679afda932c883a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9062929e424fe2c6dbd624c96689e386') in 0.004900 seconds
-  Import took 0.008040 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.051933 seconds.
-  path: Assets/Scenes/SampleScene/LightingData.asset
-  artifactKey: Guid(c9125a765592a4e6c8590fbc44a4b96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene/LightingData.asset using Guid(c9125a765592a4e6c8590fbc44a4b96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9546a3288e33ca17a17f42a29de6b996') in 0.005715 seconds
-  Import took 0.008680 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000152 seconds.
-  path: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
-  artifactKey: Guid(bef7420d88aa44167b2704adf5c4dd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene/ReflectionProbe-0.exr using Guid(bef7420d88aa44167b2704adf5c4dd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62dfeccabda3ef07bf806fded43ea46') in 0.021536 seconds
-  Import took 0.024280 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.938966 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc088d1731b590f9572c6f2bab98c6a') in 0.005561 seconds
-  Import took 0.008523 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.883395 seconds.
-  path: Assets/Prefabs
-  artifactKey: Guid(1ad9e07e953894934a53df98ae2c3041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs using Guid(1ad9e07e953894934a53df98ae2c3041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9f81653a1954c412a530f151dc96bf4') in 0.004793 seconds
-  Import took 0.008308 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.044042 seconds.
-  path: Assets/Prefabs/Left Hand Presence.prefab
-  artifactKey: Guid(6c2509c76b281144cb0099fc45f17a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Left Hand Presence.prefab using Guid(6c2509c76b281144cb0099fc45f17a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c873d27c5e4c220136c0087b8f691919') in 0.008735 seconds
-  Import took 0.011967 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Prefabs/Right Hand Presence.prefab
-  artifactKey: Guid(ddc38db09f9124241b4b4e9b2b9831eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Right Hand Presence.prefab using Guid(ddc38db09f9124241b4b4e9b2b9831eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705e7f29bd1844dfc8c199c921cbef45') in 0.006123 seconds
-  Import took 0.008327 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.186840 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs
-  artifactKey: Guid(018db15951b6c0149b23b39bec397b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs using Guid(018db15951b6c0149b23b39bec397b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd37a6d2e81e7fe17ade3ff69faa538') in 0.001607 seconds
-  Import took 0.004569 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.057346 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Bishop.prefab
-  artifactKey: Guid(a71fd906a2159e247ab4d632e46947db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Bishop.prefab using Guid(a71fd906a2159e247ab4d632e46947db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ae8648fa2de03a5b637abeece77d39') in 0.008960 seconds
-  Import took 0.011875 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Knight.prefab
-  artifactKey: Guid(7248632fb471af143947a88a47eae959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Knight.prefab using Guid(7248632fb471af143947a88a47eae959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42d2bd2f9050dce0c8f66cfa279baf2') in 0.008219 seconds
-  Import took 0.011334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Bishop.prefab
-  artifactKey: Guid(cd05c23b470229c44a8d53d6e86225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Bishop.prefab using Guid(cd05c23b470229c44a8d53d6e86225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e858a9a9e37e1fc2900e5a3115b2247') in 0.010184 seconds
-  Import took 0.012821 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Board.prefab
-  artifactKey: Guid(31270e9f38d5e7a448ae050b9633fce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Board.prefab using Guid(31270e9f38d5e7a448ae050b9633fce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561de73646d4ded341d9a869375f414c') in 0.009936 seconds
-  Import took 0.012695 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Pawn.prefab
-  artifactKey: Guid(edd4f3477fd5a8b4599bf6c0dac39f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Pawn.prefab using Guid(edd4f3477fd5a8b4599bf6c0dac39f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc9757650676a7d0348795baa100132') in 0.008893 seconds
-  Import took 0.011343 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Pawn.prefab
-  artifactKey: Guid(48d5ea4ff810d0e4ea36af7235dd5fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Pawn.prefab using Guid(48d5ea4ff810d0e4ea36af7235dd5fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729bfcd7d8bb66a6cbaa553a6593405c') in 0.008596 seconds
-  Import took 0.011628 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Rook.prefab
-  artifactKey: Guid(43ef2ba32fda59c42a1410ea490d494b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Rook.prefab using Guid(43ef2ba32fda59c42a1410ea490d494b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6306328bf776fbe99580b733f671d9d7') in 0.008696 seconds
-  Import took 0.011681 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black King.prefab
-  artifactKey: Guid(861e95a585868b643bf2e4a1d0ae63b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black King.prefab using Guid(861e95a585868b643bf2e4a1d0ae63b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0ff190923b6e9853948f3e46d9c580') in 0.008792 seconds
-  Import took 0.011827 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Rook.prefab
-  artifactKey: Guid(9d3e9c36668dcfe44b524760a4c3a3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Rook.prefab using Guid(9d3e9c36668dcfe44b524760a4c3a3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2132c4f1bc72ea18bff5e5d33e8d5e') in 0.007938 seconds
-  Import took 0.010844 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000137 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Knight.prefab
-  artifactKey: Guid(b6c7ad354ac474944ba26b2895a59759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Knight.prefab using Guid(b6c7ad354ac474944ba26b2895a59759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02fc980b1d01a6a954a4f4c96add70c') in 0.008247 seconds
-  Import took 0.011100 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Queen.prefab
-  artifactKey: Guid(6f38c700bedefe64f8364436528e5c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Queen.prefab using Guid(6f38c700bedefe64f8364436528e5c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f649cc0cc22220fb806cd611356558') in 0.009581 seconds
-  Import took 0.012530 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Queen.prefab
-  artifactKey: Guid(1f7a3b3d104b8e44cb39f5356ae1d0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Queen.prefab using Guid(1f7a3b3d104b8e44cb39f5356ae1d0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb2f45a4a3434e53d1a4b6f4854a5fc') in 0.009267 seconds
-  Import took 0.011975 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White King.prefab
-  artifactKey: Guid(9e4e635002b6a524ca896adb28e8e388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White King.prefab using Guid(9e4e635002b6a524ca896adb28e8e388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfde69d5858832724784e021619b7f7a') in 0.008715 seconds
-  Import took 0.011477 seconds .
-
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
