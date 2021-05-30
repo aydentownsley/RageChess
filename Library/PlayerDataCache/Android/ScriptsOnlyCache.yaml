@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     - NetworkManager
     - NetworkPlayer
     - NetworkPlayerSpawner
+    - XRGrabNetworkInteractable
     PhotonUnityNetworking.Demos.dll:
     - Photon.Pun.Demo.Asteroids.Asteroid
     - Photon.Pun.Demo.Asteroids.Bullet
@@ -32,7 +33,6 @@ ScriptsOnlyBuild:
     Unity.XR.Interaction.Toolkit.dll:
     - UnityEngine.XR.Interaction.Toolkit.XRController
     - UnityEngine.XR.Interaction.Toolkit.XRDirectInteractor
-    - UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable
     - UnityEngine.XR.Interaction.Toolkit.XRInteractionManager
     - UnityEngine.XR.Interaction.Toolkit.XRRig
     Unity.XR.Management.Editor.dll:
@@ -113,35 +113,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1528}
     - Class: 114
-      Script: {instanceID: 1664}
+      Script: {instanceID: 1662}
     - Class: 114
-      Script: {instanceID: 1838}
+      Script: {instanceID: 1836}
     - Class: 114
-      Script: {instanceID: 1876}
+      Script: {instanceID: 1874}
     - Class: 114
-      Script: {instanceID: 1884}
+      Script: {instanceID: 1882}
     - Class: 114
-      Script: {instanceID: 2484}
+      Script: {instanceID: 2482}
     - Class: 114
-      Script: {instanceID: 2522}
+      Script: {instanceID: 2520}
     - Class: 114
-      Script: {instanceID: 2550}
+      Script: {instanceID: 2548}
     - Class: 114
-      Script: {instanceID: 2778}
+      Script: {instanceID: 2776}
     - Class: 114
-      Script: {instanceID: 3156}
+      Script: {instanceID: 3154}
     - Class: 114
-      Script: {instanceID: 3438}
+      Script: {instanceID: 3436}
     - Class: 114
-      Script: {instanceID: 3452}
+      Script: {instanceID: 3450}
     - Class: 114
-      Script: {instanceID: 3580}
+      Script: {instanceID: 3578}
+    - Class: 114
+      Script: {instanceID: 3622}
     - Class: 114
       Script: {instanceID: 3780}
     - Class: 114
       Script: {instanceID: 4024}
-    - Class: 114
-      Script: {instanceID: 4058}
     - Class: 114
       Script: {instanceID: 4174}
     - Class: 114
@@ -1021,6 +1021,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InputSystem.dll
     namespaceName: UnityEngine.InputSystem.Editor
     className: PlayerInputEditor
+  - hash:
+      serializedVersion: 2
+      Hash: b418ddfcdc343d22d2860cbd40346cb7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: XRGrabNetworkInteractable
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
