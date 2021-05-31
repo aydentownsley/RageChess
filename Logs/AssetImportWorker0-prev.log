@@ -15,12 +15,12 @@ C:/Users/Peyton/Documents/Unity Projects/RageChess
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53201
+57241
 Successfully changed project path to: C:/Users/Peyton/Documents/Unity Projects/RageChess
 C:/Users/Peyton/Documents/Unity Projects/RageChess
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 42.36 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 0.65 ms.
+Refreshing native plugins compatible for Editor in 35.43 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.81 ms.
 Initialize engine version: 2020.3.10f1 (297d780c91bc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Peyton/Documents/Unity Projects/RageChess/Assets
@@ -35,26 +35,26 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56792
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56048
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001425 seconds.
+Registered in 0.001396 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 30.04 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 0.08 ms.
+Refreshing native plugins compatible for Editor in 27.68 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.239 seconds
+- Completed reload, in  1.182 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007938 seconds.
+Registered in 0.006061 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 33.17 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 0.10 ms.
+Refreshing native plugins compatible for Editor in 27.39 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
@@ -66,43 +66,75 @@ NullReferenceException: Object reference not set to an instance of an object
 (Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.813 seconds
+- Completed reload, in  0.732 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.71 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 0.07 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
 Unloading 2248 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 97.8 MB.
 System memory in use after: 97.7 MB.
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2674.
-Total: 2.376000 ms (FindLiveObjects: 0.209000 ms CreateObjectMapping: 0.083200 ms MarkObjects: 2.012500 ms  DeleteObjects: 0.070600 ms)
+Total: 2.360100 ms (FindLiveObjects: 0.205900 ms CreateObjectMapping: 0.080300 ms MarkObjects: 1.988600 ms  DeleteObjects: 0.084200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/XRgrabnetworkinteractable.cs
-  artifactKey: Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRgrabnetworkinteractable.cs using Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4635885bb157c51b110b953a5c453e') in 0.021789 seconds
-  Import took 0.024476 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.234123 seconds.
   path: Assets/XRGrabNetworkInteractable.cs
   artifactKey: Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRGrabNetworkInteractable.cs using Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8226465cc5d4c454ec64b220266006') in 0.005360 seconds
-  Import took 0.008486 seconds .
+Start importing Assets/XRGrabNetworkInteractable.cs using Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b82c6bbc8cb008fc8d6a2cd93f4c3b5') in 0.025734 seconds
+  Import took 0.028219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 232.544738 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005402 seconds
+  Import took 0.008491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.725942 seconds.
+  path: Assets/NetworkPlayer.cs
+  artifactKey: Guid(8fa997fe24fd148fabfd6b3ea05c248d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NetworkPlayer.cs using Guid(8fa997fe24fd148fabfd6b3ea05c248d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4afad010eb0278ac331fd6043f334da') in 0.005734 seconds
+  Import took 0.008378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015486 seconds.
+  path: Assets/NetworkPlayer.cs
+  artifactKey: Guid(8fa997fe24fd148fabfd6b3ea05c248d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NetworkPlayer.cs using Guid(8fa997fe24fd148fabfd6b3ea05c248d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4afad010eb0278ac331fd6043f334da') in 0.001349 seconds
+  Import took 0.004065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.211898 seconds.
+  path: Assets/NetworkManager.cs
+  artifactKey: Guid(72bdc2179ca4e49238e377be83302298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NetworkManager.cs using Guid(72bdc2179ca4e49238e377be83302298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9cba796b59ec275c11f37a29a6c198c') in 0.004885 seconds
+  Import took 0.007710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 543.299831 seconds.
+  path: Assets/ChessHandler.cs
+  artifactKey: Guid(5bc4d3ee95e0b2945b66b48e0868e74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChessHandler.cs using Guid(5bc4d3ee95e0b2945b66b48e0868e74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1588496af18ac3c808e428c50904af7c') in 0.004654 seconds
+  Import took 0.007643 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005736 seconds.
+Registered in 0.005643 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.07 ms.
 NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
@@ -111,205 +143,28 @@ NullReferenceException: Object reference not set to an instance of an object
 (Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.694 seconds
+- Completed reload, in  0.680 seconds
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.65 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.07 ms.
-Unloading 2226 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2227 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 96.9 MB.
 System memory in use after: 97.0 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2679.
-Total: 2.335700 ms (FindLiveObjects: 0.254800 ms CreateObjectMapping: 0.096400 ms MarkObjects: 1.929700 ms  DeleteObjects: 0.054100 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2680.
+Total: 2.471000 ms (FindLiveObjects: 0.198700 ms CreateObjectMapping: 0.057100 ms MarkObjects: 2.165400 ms  DeleteObjects: 0.049200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
-Received Import Request.
-  Time since last request: 408.275059 seconds.
-  path: Assets/XRGrabNetworkInteractable.cs
-  artifactKey: Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRGrabNetworkInteractable.cs using Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50eea05c5597d403ab7c8a000aee9d5') in 0.004985 seconds
-  Import took 0.008066 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 451.977185 seconds.
-  path: Assets/XRGrabNetworkInteractable.cs
-  artifactKey: Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRGrabNetworkInteractable.cs using Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78bc36581f1cf3be2840854767630c8') in 0.002217 seconds
-  Import took 0.005966 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 58.209397 seconds.
-  path: Assets/XRGrabNetworkInteractable.cs
-  artifactKey: Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRGrabNetworkInteractable.cs using Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada39ef79d9171cfed06c64a3d975b1e') in 0.001805 seconds
-  Import took 0.004836 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 89.558614 seconds.
-  path: Assets/XRGrabNetworkInteractable.cs
-  artifactKey: Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRGrabNetworkInteractable.cs using Guid(7788f786e78994449bbfaf44a24fab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82722e864298405e9f9e2ec40b5977b4') in 0.002063 seconds
-  Import took 0.005808 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 283.683725 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(bfa75efd809bc41858c702d018f03718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(bfa75efd809bc41858c702d018f03718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bfd519a819daf2dd8ac35adab86838b') in 0.005526 seconds
-  Import took 0.008852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000619 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(bfa75efd809bc41858c702d018f03718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(bfa75efd809bc41858c702d018f03718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bfd519a819daf2dd8ac35adab86838b') in 0.001628 seconds
-  Import took 0.003956 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.362163 seconds.
-  path: Assets/Scripts/HandPresence.cs
-  artifactKey: Guid(99b4a737903b82a43bb95804a2149147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/HandPresence.cs using Guid(99b4a737903b82a43bb95804a2149147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cb2f2dc9e4dfaa86b0b8254dbc7cca') in 0.005593 seconds
-  Import took 0.008615 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.215477 seconds.
-  path: Assets/NetworkPlayerSpawner.cs
-  artifactKey: Guid(c690bcd1f909a41d386eea01439d340a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NetworkPlayerSpawner.cs using Guid(c690bcd1f909a41d386eea01439d340a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e0bcf480533a8d1405eb0927210cc8') in 0.007505 seconds
-  Import took 0.010455 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.174715 seconds.
-  path: Assets/XR
-  artifactKey: Guid(7c86e5f1f5913413093fc8613054c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR using Guid(7c86e5f1f5913413093fc8613054c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452e179fbcb88b654d845df08b611ea5') in 0.005608 seconds
-  Import took 0.008774 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/XR
-  artifactKey: Guid(7c86e5f1f5913413093fc8613054c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR using Guid(7c86e5f1f5913413093fc8613054c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452e179fbcb88b654d845df08b611ea5') in 0.001566 seconds
-  Import took 0.004365 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.042208 seconds.
-  path: Assets/XR/XRGeneralSettings.asset
-  artifactKey: Guid(f9b17b4c1efe742feac2eaa35fb2ce70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/XRGeneralSettings.asset using Guid(f9b17b4c1efe742feac2eaa35fb2ce70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4153858d1b95453254172254e78b21b0') in 0.020848 seconds
-  Import took 0.023828 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.137956 seconds.
-  path: Assets/XR/Settings
-  artifactKey: Guid(9b462dfb1feb247a28757009813e2fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Settings using Guid(9b462dfb1feb247a28757009813e2fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fede22a5d51dbbc78ff7e43d85f7a4bd') in 0.005745 seconds
-  Import took 0.008852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.073543 seconds.
-  path: Assets/XR/Settings/Oculus Settings.asset
-  artifactKey: Guid(9edf70d41d78d4939afcb86d18253e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Settings/Oculus Settings.asset using Guid(9edf70d41d78d4939afcb86d18253e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eded9f3a52c24ad07c9cfad7afb2a078') in 0.006057 seconds
-  Import took 0.009066 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/XR/Settings/Open XR Package Settings.asset
-  artifactKey: Guid(83c258ce299024ce2a7beb131d055ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Settings/Open XR Package Settings.asset using Guid(83c258ce299024ce2a7beb131d055ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeda0ea691439215635f2759fcc45e2f') in 0.006218 seconds
-  Import took 0.009039 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.085303 seconds.
-  path: Assets/Resources
-  artifactKey: Guid(637d82fde446346dabe0884231ebedb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources using Guid(637d82fde446346dabe0884231ebedb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d49ca851ee33b7ca265cb1d64493f1') in 0.005836 seconds
-  Import took 0.008909 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000996 seconds.
-  path: Assets/Resources
-  artifactKey: Guid(637d82fde446346dabe0884231ebedb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources using Guid(637d82fde446346dabe0884231ebedb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d49ca851ee33b7ca265cb1d64493f1') in 0.001447 seconds
-  Import took 0.003916 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.051881 seconds.
-  path: Assets/Resources/Network Player.prefab
-  artifactKey: Guid(80fb818cfe84d417ea042f7f6ad89497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Network Player.prefab using Guid(80fb818cfe84d417ea042f7f6ad89497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137dad65f5d877b1227d3e2fc03c05ce') in 0.218005 seconds
-  Import took 0.221492 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 52.169663 seconds.
-  path: Assets/XR/Loaders
-  artifactKey: Guid(3655f2353f1dc4f7ba3b9c5cdbac14aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Loaders using Guid(3655f2353f1dc4f7ba3b9c5cdbac14aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad6865ce5a96956135e45b779668fb7') in 0.005880 seconds
-  Import took 0.009146 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.524974 seconds.
-  path: Assets/XR/Loaders/Oculus Loader.asset
-  artifactKey: Guid(654d7229e749c4718b477a62052a95e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Loaders/Oculus Loader.asset using Guid(654d7229e749c4718b477a62052a95e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce718c629754c822bd99555a740f2c9') in 0.005211 seconds
-  Import took 0.007998 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003788 seconds.
-  path: Assets/XR/Loaders/Open XR Loader No Pre Init.asset
-  artifactKey: Guid(c4eb4552124a44d0db54e9160474ceca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Loaders/Open XR Loader No Pre Init.asset using Guid(c4eb4552124a44d0db54e9160474ceca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [XR] Error loading subsystem: Display (1) (header mismatch?)
- -> (artifact id: 'd9e786036fac54327f4e1c52050a5a7a') in 0.006707 seconds
-  Import took 0.009288 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/XR/Loaders/Open XR Loader.asset
-  artifactKey: Guid(7bdfb5180dfbc490a8b8bf99b42eb56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Loaders/Open XR Loader.asset using Guid(7bdfb5180dfbc490a8b8bf99b42eb56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5949d3c61eec65b6537f2794c879003') in 0.004984 seconds
-  Import took 0.007489 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016772 seconds.
-  path: Assets/XR/Loaders/Open XR Loader.asset
-  artifactKey: Guid(7bdfb5180dfbc490a8b8bf99b42eb56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XR/Loaders/Open XR Loader.asset using Guid(7bdfb5180dfbc490a8b8bf99b42eb56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5949d3c61eec65b6537f2794c879003') in 0.002175 seconds
-  Import took 0.005167 seconds .
-
-========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.015341 seconds.
+Registered in 0.005735 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 0.66 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.07 ms.
 NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
@@ -318,18 +173,163 @@ NullReferenceException: Object reference not set to an instance of an object
 (Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.695 seconds
+- Completed reload, in  0.664 seconds
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.65 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.06 ms.
 Unloading 2227 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.9 MB.
-System memory in use after: 111.1 MB.
+System memory in use before: 97.0 MB.
+System memory in use after: 97.1 MB.
 
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2692.
-Total: 2.017200 ms (FindLiveObjects: 0.218100 ms CreateObjectMapping: 0.048900 ms MarkObjects: 1.627200 ms  DeleteObjects: 0.122400 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2685.
+Total: 2.100200 ms (FindLiveObjects: 0.216800 ms CreateObjectMapping: 0.071400 ms MarkObjects: 1.769900 ms  DeleteObjects: 0.041300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005705 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:234 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.659 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 2227 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.1 MB.
+System memory in use after: 97.2 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2690.
+Total: 2.059200 ms (FindLiveObjects: 0.219400 ms CreateObjectMapping: 0.069100 ms MarkObjects: 1.737000 ms  DeleteObjects: 0.033300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.53 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 54.0 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2690.
+Total: 2.335500 ms (FindLiveObjects: 0.255800 ms CreateObjectMapping: 0.100200 ms MarkObjects: 1.942300 ms  DeleteObjects: 0.036500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005508 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:234 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 2227 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.1 MB.
+System memory in use after: 97.2 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2695.
+Total: 2.317700 ms (FindLiveObjects: 0.225700 ms CreateObjectMapping: 0.081200 ms MarkObjects: 1.958100 ms  DeleteObjects: 0.051700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.36 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 54.0 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2695.
+Total: 2.099400 ms (FindLiveObjects: 0.214800 ms CreateObjectMapping: 0.061300 ms MarkObjects: 1.782900 ms  DeleteObjects: 0.039800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.58 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 54.0 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2695.
+Total: 2.515000 ms (FindLiveObjects: 0.268300 ms CreateObjectMapping: 0.102300 ms MarkObjects: 2.098700 ms  DeleteObjects: 0.045000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006344 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:249 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Peyton\Documents\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1\Runtime\OculusLoader.cs:234 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.9.1/Runtime/OculusLoader.cs Line: 249)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2227 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.1 MB.
+System memory in use after: 97.2 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 2.810400 ms (FindLiveObjects: 0.258100 ms CreateObjectMapping: 0.113500 ms MarkObjects: 2.375600 ms  DeleteObjects: 0.062300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.25 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.8 MB.
+System memory in use after: 53.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 2.257300 ms (FindLiveObjects: 0.237700 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.930400 ms  DeleteObjects: 0.042600 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.58 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.8 MB.
+System memory in use after: 53.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 2.295300 ms (FindLiveObjects: 0.253400 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.946600 ms  DeleteObjects: 0.047200 ms)
+
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
