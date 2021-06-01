@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     - NetworkManager
     - NetworkPlayer
     - NetworkPlayerSpawner
+    - XRGrabNetworkInteractable
     PhotonUnityNetworking.Demos.dll:
     - Photon.Pun.Demo.Asteroids.Asteroid
     - Photon.Pun.Demo.Asteroids.Bullet
@@ -31,6 +32,7 @@ ScriptsOnlyBuild:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.XR.Interaction.Toolkit.dll:
     - UnityEngine.XR.Interaction.Toolkit.XRController
+    - UnityEngine.XR.Interaction.Toolkit.XRDirectInteractor
     - UnityEngine.XR.Interaction.Toolkit.XRInteractionManager
     - UnityEngine.XR.Interaction.Toolkit.XRRig
     Unity.XR.Management.Editor.dll:
@@ -111,53 +113,57 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1528}
     - Class: 114
-      Script: {instanceID: 1662}
+      Script: {instanceID: 1766}
     - Class: 114
-      Script: {instanceID: 1836}
+      Script: {instanceID: 1940}
     - Class: 114
-      Script: {instanceID: 1874}
+      Script: {instanceID: 1978}
     - Class: 114
-      Script: {instanceID: 1882}
+      Script: {instanceID: 1986}
     - Class: 114
-      Script: {instanceID: 2482}
+      Script: {instanceID: 2584}
     - Class: 114
-      Script: {instanceID: 2520}
+      Script: {instanceID: 2622}
     - Class: 114
-      Script: {instanceID: 2548}
+      Script: {instanceID: 2650}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 2878}
     - Class: 114
-      Script: {instanceID: 3154}
+      Script: {instanceID: 3256}
     - Class: 114
-      Script: {instanceID: 3436}
+      Script: {instanceID: 3538}
     - Class: 114
-      Script: {instanceID: 3450}
+      Script: {instanceID: 3552}
     - Class: 114
-      Script: {instanceID: 3578}
+      Script: {instanceID: 3680}
     - Class: 114
-      Script: {instanceID: 3778}
+      Script: {instanceID: 3724}
     - Class: 114
-      Script: {instanceID: 4022}
+      Script: {instanceID: 3882}
     - Class: 114
-      Script: {instanceID: 4172}
+      Script: {instanceID: 4126}
     - Class: 114
-      Script: {instanceID: 4588}
+      Script: {instanceID: 4276}
     - Class: 114
-      Script: {instanceID: 4594}
+      Script: {instanceID: 4292}
     - Class: 114
-      Script: {instanceID: 4638}
+      Script: {instanceID: 4688}
     - Class: 114
-      Script: {instanceID: 4834}
+      Script: {instanceID: 4694}
     - Class: 114
-      Script: {instanceID: 4918}
+      Script: {instanceID: 4738}
     - Class: 114
-      Script: {instanceID: 5232}
+      Script: {instanceID: 4934}
     - Class: 114
-      Script: {instanceID: 5402}
+      Script: {instanceID: 5018}
     - Class: 114
-      Script: {instanceID: 5604}
+      Script: {instanceID: 5332}
     - Class: 114
-      Script: {instanceID: 6004}
+      Script: {instanceID: 5502}
+    - Class: 114
+      Script: {instanceID: 5702}
+    - Class: 114
+      Script: {instanceID: 6100}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1015,6 +1021,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InputSystem.dll
     namespaceName: UnityEngine.InputSystem.Editor
     className: PlayerInputEditor
+  - hash:
+      serializedVersion: 2
+      Hash: b418ddfcdc343d22d2860cbd40346cb7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: XRGrabNetworkInteractable
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -2014,4 +2026,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Test_scene.unity
-  playerPath: /Users/veritas/Unity/MulitPlayerGame/MultTest.apk
+  playerPath: /Users/veritas/RageChess/peyton.apk
