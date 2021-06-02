@@ -42,7 +42,6 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.Interaction.Toolkit.UI.XRUIInputModule
     - UnityEngine.XR.Interaction.Toolkit.XRController
     - UnityEngine.XR.Interaction.Toolkit.XRDirectInteractor
-    - UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable
     - UnityEngine.XR.Interaction.Toolkit.XRInteractionManager
     - UnityEngine.XR.Interaction.Toolkit.XRInteractorLineVisual
     - UnityEngine.XR.Interaction.Toolkit.XRRayInteractor
@@ -138,8 +137,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3806}
     - Class: 114
       Script: {instanceID: 4050}
-    - Class: 114
-      Script: {instanceID: 4084}
     - Class: 114
       Script: {instanceID: 4216}
     - Class: 114
