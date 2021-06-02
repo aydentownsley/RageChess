@@ -1346,7 +1346,7 @@ MonoBehaviour:
   defaultRooms:
   - Name: Rage
     sceneIndex: 1
-    maxPlayer: 2
+    maxPlayer: 6
   roomUI: {fileID: 130227654}
 --- !u!4 &1028244642
 Transform:
