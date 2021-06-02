@@ -1,4 +1,0 @@
-#Wed Jun 02 13:51:13 CDT 2021
-base.0=/Users/veritas/RageChess/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,0 +1,6 @@
+Base path: '/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents', plugins path '/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+
+Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
+
+Quitting shader compiler process
