@@ -1,0 +1,18 @@
+# Starting compiling PhotonUnityNetworking.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4d4b1ba7ecff44067a305274c8b79a41
+# Starting compiling PhotonUnityNetworking.Editor.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-763ba6b52781e4153842b7c9efe283db
+# Starting compiling PunDemos.DemoHubEditor.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-926b8ccc51ba849129480dfe6a0f2352
+# Starting compiling PhotonUnityNetworking.Utilities.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fc280e19e340c4c9bafa8fc6524f8d13
+# Starting compiling PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-48a0f0606ad024c1d9af0afddfe6f03a
+# Starting compiling PhotonUnityNetworking.Demos.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-afefdcf63af97456db97d9a0ff9af7ca
+# Starting compiling PhotonUnityNetworking.Utilities.Culling.Editor.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e9baeaeb046334edd9bfee8dca2e59f5
+# Starting compiling PunDemos.DemoSlotcarEditor.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d2656f83de3af4fa68dcd4828e2c9560
+# Starting compiling Assembly-CSharp.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9d0e3645d34334ab4bf70e160115b948

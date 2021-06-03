@@ -263,6 +263,7 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.7
         - 2.0.8
+        - 2.0.9
         compatible:
         - 1.0.2
         - 1.0.3
@@ -277,7 +278,8 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.7
         - 2.0.8
-        verified: 2.0.8
+        - 2.0.9
+        verified: 2.0.9
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -1211,6 +1213,7 @@ m_PackageAssets:
         - 1.0.3
         - 1.1.1
         - 1.2.0
+        - 1.2.2
         compatible:
         - 0.1.1-preview.1
         - 0.1.2-preview.2
@@ -1218,6 +1221,7 @@ m_PackageAssets:
         - 1.0.3
         - 1.1.1
         - 1.2.0
+        - 1.2.2
         verified: 1.1.1
       dependencies:
       - name: com.unity.xr.management
