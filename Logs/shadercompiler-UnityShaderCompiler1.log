@@ -2,5 +2,3 @@ Base path: '/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents', plugins path '
 Cmd: initializeCompiler
 
 Cmd: shutdown
-
-Quitting shader compiler process

@@ -1,10 +1,17 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Bishop
+    - BoardManager
     - HandPresence
+    - King
+    - Knight
     - NetworkManager
     - NetworkPlayer
     - NetworkPlayerSpawner
+    - Pawn
+    - Queen
+    - Rook
     - XRGrabNetworkInteractable
     PhotonUnityNetworking.Demos.dll:
     - Photon.Pun.Demo.Asteroids.Asteroid
@@ -46,7 +53,6 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.Interaction.Toolkit.XRInteractorLineVisual
     - UnityEngine.XR.Interaction.Toolkit.XRRayInteractor
     - UnityEngine.XR.Interaction.Toolkit.XRRig
-    - UnityEngine.XR.Interaction.Toolkit.XRSocketInteractor
     Unity.XR.Management.Editor.dll:
     - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
     Unity.XR.Management.dll:
@@ -129,10 +135,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2802}
     - Class: 114
-      Script: {instanceID: 3230}
-    - Class: 114
-      Script: {instanceID: 3462}
-    - Class: 114
       Script: {instanceID: 3604}
     - Class: 114
       Script: {instanceID: 3648}
@@ -146,6 +148,20 @@ ScriptsOnlyBuild:
       Script: {instanceID: 4666}
     - Class: 114
       Script: {instanceID: 4946}
+    - Class: 114
+      Script: {instanceID: 20004}
+    - Class: 114
+      Script: {instanceID: 20010}
+    - Class: 114
+      Script: {instanceID: 20012}
+    - Class: 114
+      Script: {instanceID: 20014}
+    - Class: 114
+      Script: {instanceID: 20016}
+    - Class: 114
+      Script: {instanceID: 20018}
+    - Class: 114
+      Script: {instanceID: 20020}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -2140,6 +2156,54 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit.Forms
     className: UserIdUiForm
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: King
+  - hash:
+      serializedVersion: 2
+      Hash: c96c9ef22bc2604e36248eaa8d29cfc9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BoardHighlights
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Rook
+  - hash:
+      serializedVersion: 2
+      Hash: 5669abcb270aa8a1dec27876efbf9290
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BoardManager
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Pawn
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Knight
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Queen
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Bishop
   platform: 13
   scenePathNames:
   - Assets/Scenes/StartScreen.unity
