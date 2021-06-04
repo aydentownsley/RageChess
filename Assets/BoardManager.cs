@@ -174,14 +174,18 @@ public class BoardManager : MonoBehaviour
 			selectionY = -1;
 		}
 	}
-
+	public int value = 1;
 	private void SpawnChessman(int index,int x,int y)
 	{
 		GameObject go = Instantiate(chessmanPrefabs [index], GetTileCenter(x,y), orientation) as GameObject;
 		go.transform.SetParent (transform);
 		Chessmans [x, y] = go.GetComponent<Chessman> ();
 		Chessmans [x, y].SetPosition (x, y);
+		go.AddComponent<PhotonView>();
+		go.GetPhotonView().ViewID = value;
+		go.GetPhotonView().OwnershipTransfer = OwnershipOption.Takeover;
 		activeChessman.Add (go);
+		value = value + 1;
 	}
 
 	private void SpawnAllChessmans()

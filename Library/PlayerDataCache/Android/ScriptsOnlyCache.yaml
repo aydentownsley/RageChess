@@ -1,10 +1,18 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Bishop
+    - BoardHighlights
+    - BoardManager
     - HandPresence
+    - King
+    - Knight
     - NetworkManager
     - NetworkPlayer
     - NetworkPlayerSpawner
+    - Pawn
+    - Queen
+    - Rook
     - XRGrabNetworkInteractable
     PhotonUnityNetworking.Demos.dll:
     - Photon.Pun.Demo.Asteroids.Asteroid
@@ -28,7 +36,6 @@ ScriptsOnlyBuild:
     - UnityEngine.InputSystem.InputSettings
     - UnityEngine.InputSystem.InputSystemObject
     - UnityEngine.InputSystem.RemoteInputPlayerConnection
-    - UnityEngine.InputSystem.XR.TrackedPoseDriver
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -46,7 +53,6 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.Interaction.Toolkit.XRInteractorLineVisual
     - UnityEngine.XR.Interaction.Toolkit.XRRayInteractor
     - UnityEngine.XR.Interaction.Toolkit.XRRig
-    - UnityEngine.XR.Interaction.Toolkit.XRSocketInteractor
     Unity.XR.Management.Editor.dll:
     - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
     Unity.XR.Management.dll:
@@ -125,32 +131,42 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2546}
+      Script: {instanceID: 1670}
     - Class: 114
-      Script: {instanceID: 2802}
+      Script: {instanceID: 2056}
     - Class: 114
-      Script: {instanceID: 3230}
+      Script: {instanceID: 2560}
     - Class: 114
-      Script: {instanceID: 3462}
+      Script: {instanceID: 2816}
     - Class: 114
-      Script: {instanceID: 3604}
+      Script: {instanceID: 3186}
     - Class: 114
-      Script: {instanceID: 3648}
+      Script: {instanceID: 3424}
     - Class: 114
-      Script: {instanceID: 3806}
+      Script: {instanceID: 3624}
     - Class: 114
-      Script: {instanceID: 4050}
+      Script: {instanceID: 3668}
     - Class: 114
-      Script: {instanceID: 4216}
+      Script: {instanceID: 3826}
     - Class: 114
-      Script: {instanceID: 4666}
+      Script: {instanceID: 4068}
     - Class: 114
-      Script: {instanceID: 4946}
+      Script: {instanceID: 4072}
+    - Class: 114
+      Script: {instanceID: 4150}
+    - Class: 114
+      Script: {instanceID: 4240}
+    - Class: 114
+      Script: {instanceID: 4586}
+    - Class: 114
+      Script: {instanceID: 4692}
+    - Class: 114
+      Script: {instanceID: 4868}
+    - Class: 114
+      Script: {instanceID: 4974}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
-      Script: {instanceID: 0}
-    - Class: 136
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
@@ -202,81 +218,81 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1552}
+      Script: {instanceID: 1562}
     - Class: 114
-      Script: {instanceID: 1554}
+      Script: {instanceID: 1564}
     - Class: 114
-      Script: {instanceID: 1688}
+      Script: {instanceID: 1700}
     - Class: 114
-      Script: {instanceID: 1862}
+      Script: {instanceID: 1874}
     - Class: 114
-      Script: {instanceID: 1900}
+      Script: {instanceID: 1912}
     - Class: 114
-      Script: {instanceID: 1908}
+      Script: {instanceID: 1920}
     - Class: 114
-      Script: {instanceID: 1982}
+      Script: {instanceID: 1994}
     - Class: 114
-      Script: {instanceID: 1996}
+      Script: {instanceID: 2008}
     - Class: 114
-      Script: {instanceID: 2362}
+      Script: {instanceID: 2376}
     - Class: 114
-      Script: {instanceID: 2508}
+      Script: {instanceID: 2522}
     - Class: 114
-      Script: {instanceID: 2546}
+      Script: {instanceID: 2560}
     - Class: 114
-      Script: {instanceID: 2574}
+      Script: {instanceID: 2588}
     - Class: 114
-      Script: {instanceID: 2802}
+      Script: {instanceID: 2816}
     - Class: 114
-      Script: {instanceID: 2826}
+      Script: {instanceID: 2840}
     - Class: 114
-      Script: {instanceID: 2974}
+      Script: {instanceID: 2988}
     - Class: 114
-      Script: {instanceID: 3032}
+      Script: {instanceID: 3046}
     - Class: 114
-      Script: {instanceID: 3180}
+      Script: {instanceID: 3198}
     - Class: 114
-      Script: {instanceID: 3200}
+      Script: {instanceID: 3218}
     - Class: 114
-      Script: {instanceID: 3378}
+      Script: {instanceID: 3396}
     - Class: 114
-      Script: {instanceID: 3462}
+      Script: {instanceID: 3482}
     - Class: 114
-      Script: {instanceID: 3476}
+      Script: {instanceID: 3496}
     - Class: 114
-      Script: {instanceID: 3596}
+      Script: {instanceID: 3616}
     - Class: 114
-      Script: {instanceID: 3806}
+      Script: {instanceID: 3826}
     - Class: 114
-      Script: {instanceID: 4200}
+      Script: {instanceID: 4072}
     - Class: 114
-      Script: {instanceID: 4616}
+      Script: {instanceID: 4224}
     - Class: 114
-      Script: {instanceID: 4622}
+      Script: {instanceID: 4642}
     - Class: 114
-      Script: {instanceID: 4666}
+      Script: {instanceID: 4648}
     - Class: 114
-      Script: {instanceID: 4862}
+      Script: {instanceID: 4692}
     - Class: 114
-      Script: {instanceID: 4946}
+      Script: {instanceID: 4890}
     - Class: 114
-      Script: {instanceID: 5068}
+      Script: {instanceID: 4974}
     - Class: 114
-      Script: {instanceID: 5260}
+      Script: {instanceID: 5096}
     - Class: 114
-      Script: {instanceID: 5274}
+      Script: {instanceID: 5288}
     - Class: 114
-      Script: {instanceID: 5430}
+      Script: {instanceID: 5458}
     - Class: 114
-      Script: {instanceID: 5432}
+      Script: {instanceID: 5460}
     - Class: 114
-      Script: {instanceID: 5596}
+      Script: {instanceID: 5624}
     - Class: 114
-      Script: {instanceID: 5632}
+      Script: {instanceID: 5660}
     - Class: 114
-      Script: {instanceID: 5978}
+      Script: {instanceID: 6006}
     - Class: 114
-      Script: {instanceID: 6032}
+      Script: {instanceID: 6060}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -382,6 +398,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
     namespaceName: UnityEngine.XR.LegacyInputHelpers
     className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: King
   - hash:
       serializedVersion: 2
       Hash: 77aaaaa51f7a8d8ff333a879741e47d2
@@ -550,6 +572,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
     className: OnPointerOverTooltip
+  - hash:
+      serializedVersion: 2
+      Hash: c96c9ef22bc2604e36248eaa8d29cfc9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BoardHighlights
   - hash:
       serializedVersion: 2
       Hash: 55c5d4231b5b81f8762aca1b7e16819e
@@ -912,6 +940,12 @@ ScriptsOnlyBuild:
     className: CharacterControllerDriver
   - hash:
       serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Knight
+  - hash:
+      serializedVersion: 2
       Hash: ea41fa959037983f32ebd7c70de46554
     assemblyName: Unity.XR.OpenXR.dll
     namespaceName: UnityEngine.XR.OpenXR.Features.Interactions
@@ -1012,6 +1046,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.XR.Interaction.Toolkit.dll
     namespaceName: UnityEngine.XR.Interaction.Toolkit
     className: XRRayInteractor
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Pawn
   - hash:
       serializedVersion: 2
       Hash: 57d2b3ca58a430f7cf319bb757c1f0f5
@@ -1308,6 +1348,12 @@ ScriptsOnlyBuild:
     className: PlayerQuitHandler
   - hash:
       serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Queen
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.XR.Oculus.dll
     namespaceName: Unity.XR.Oculus
@@ -1342,6 +1388,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
     className: BoolInputField
+  - hash:
+      serializedVersion: 2
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Rook
   - hash:
       serializedVersion: 2
       Hash: c656dcc13ae391b68d594cc8f9c590b0
@@ -1536,16 +1588,22 @@ ScriptsOnlyBuild:
     className: AutoSyncSceneToggle
   - hash:
       serializedVersion: 2
-      Hash: ee1dba1a186ac062d564e9eb73a1c56f
-    assemblyName: PhotonUnityNetworking.Utilities.dll
-    namespaceName: Photon.Pun.UtilityScripts
-    className: GraphicToggleIsOnTransition
+      Hash: 97f4b0e4ff3b1dfc13c0abb9a96fd5e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Bishop
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ee1dba1a186ac062d564e9eb73a1c56f
+    assemblyName: PhotonUnityNetworking.Utilities.dll
+    namespaceName: Photon.Pun.UtilityScripts
+    className: GraphicToggleIsOnTransition
   - hash:
       serializedVersion: 2
       Hash: ae1347d9113eee8b83c5c8047dcf31a8
@@ -1660,6 +1718,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
     className: OnJoinedInstantiate
+  - hash:
+      serializedVersion: 2
+      Hash: 5669abcb270aa8a1dec27876efbf9290
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BoardManager
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -2144,4 +2208,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/StartScreen.unity
   - Assets/Scenes/Scene Type 1.unity
-  playerPath: /Users/veritas/RageChess/v1.apk
+  playerPath: /Users/veritas/RageChess/v2.apk

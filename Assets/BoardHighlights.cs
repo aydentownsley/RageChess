@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class BoardHighlights : MonoBehaviour 
+public class BoardHighlights : MonoBehaviour
 {
 	public static BoardHighlights Instance{set;get;}
 
@@ -30,11 +30,11 @@ public class BoardHighlights : MonoBehaviour
 
 	public void HighlightAllowedMoves(bool[,] moves)
 	{
-		for (int i = 0; i < 8; i++) 
+		for (int i = 0; i < 8; i++)
 		{
-			for (int j = 0; j < 8; j++) 
+			for (int j = 0; j < 8; j++)
 			{
-				if (moves [i, j]) 
+				if (moves [i, j])
 				{
 					GameObject go = GetHighlightObject ();
 					go.SetActive (true);
