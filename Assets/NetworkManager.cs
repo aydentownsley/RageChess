@@ -56,6 +56,10 @@ public class NetworkManager : MonoBehaviourPunCallbacks
     {
         Debug.Log("Joined Room!");
         base.OnJoinedRoom();
+        // for (int i = 0; i < 4; i++)
+        // {
+        //     PhotonNetwork.Instantiate("Socket", new Vector3(-0.525f + 0.15f * (i % 8), 1, -0.525f + 0.15f * (i / 8)), Quaternion.identity);
+        // }
     }
 
     public override void OnPlayerEnteredRoom(Player newPlayer)

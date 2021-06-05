@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class PieceGrid : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class PieceGrid : MonoBehaviour
         {
             Instantiate(prefab, new Vector3(x_Start + x_Space * (i % 8), y_Start + 0, z_Start + z_Space * (i / 8)), Quaternion.identity);
         }
+        Destroy(prefab);
     }
 
     // Update is called once per frame
