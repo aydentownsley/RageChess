@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Peyton/Desktop/RageChess-peyton/Packages/manifest.json
+    m_FilePath: C:/Users/kfw2/Unity Projects/RageChess/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637582858780000000
-    m_Hash: 3887503301
+      ticks: 637582683565802532
+    m_Hash: 3645062995
   m_LockFileStatus:
-    m_FilePath: C:/Users/Peyton/Desktop/RageChess-peyton/Packages/packages-lock.json
+    m_FilePath: C:/Users/kfw2/Unity Projects/RageChess/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637582858780000000
-    m_Hash: 404076379
+      ticks: 637582683565802532
+    m_Hash: 3654997176
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.5.7
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.collab-proxy@1.5.7
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.collab-proxy@1.5.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -126,7 +126,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -233,7 +233,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.8
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -263,6 +263,7 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.7
         - 2.0.8
+        - 2.0.9
         compatible:
         - 1.0.2
         - 1.0.3
@@ -277,7 +278,8 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.7
         - 2.0.8
-        verified: 2.0.8
+        - 2.0.9
+        verified: 2.0.9
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -316,7 +318,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -385,7 +387,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -475,7 +477,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -630,7 +632,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -839,7 +841,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0-pre.4
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.xr.interaction.toolkit@1.0.0-pre.4
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.interaction.toolkit@1.0.0-pre.4
       assetPath: Packages/com.unity.xr.interaction.toolkit
       name: com.unity.xr.interaction.toolkit
       displayName: XR Interaction Toolkit
@@ -942,7 +944,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.5
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.xr.management@4.0.5
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.management@4.0.5
       assetPath: Packages/com.unity.xr.management
       name: com.unity.xr.management
       displayName: XR Plugin Management
@@ -1065,7 +1067,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.9.1
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.xr.oculus@1.9.1
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.oculus@1.9.1
       assetPath: Packages/com.unity.xr.oculus
       name: com.unity.xr.oculus
       displayName: Oculus XR Plugin
@@ -1186,7 +1188,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.1
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.xr.openxr@1.1.1
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.openxr@1.1.1
       assetPath: Packages/com.unity.xr.openxr
       name: com.unity.xr.openxr
       displayName: OpenXR Plugin
@@ -1211,6 +1213,7 @@ m_PackageAssets:
         - 1.0.3
         - 1.1.1
         - 1.2.0
+        - 1.2.2
         compatible:
         - 0.1.1-preview.1
         - 0.1.2-preview.2
@@ -1218,6 +1221,7 @@ m_PackageAssets:
         - 1.0.3
         - 1.1.1
         - 1.2.0
+        - 1.2.2
         verified: 1.1.1
       dependencies:
       - name: com.unity.xr.management
@@ -3017,7 +3021,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.1.7
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -3109,7 +3113,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.2
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.inputsystem@1.0.2
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.inputsystem@1.0.2
       assetPath: Packages/com.unity.inputsystem
       name: com.unity.inputsystem
       displayName: Input System
@@ -3219,7 +3223,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.subsystemregistration@1.0.6
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.subsystemregistration@1.0.6
       assetPath: Packages/com.unity.subsystemregistration
       name: com.unity.subsystemregistration
       displayName: Subsystem Registration
@@ -3275,7 +3279,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3336,7 +3340,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: C:\Users\Peyton\Desktop\RageChess-peyton\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: C:\Users\kfw2\Unity Projects\RageChess\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3407,5 +3411,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Peyton/Desktop/RageChess-peyton/Packages
+m_ProjectPath: C:/Users/kfw2/Unity Projects/RageChess/Packages
 m_EditorVersion: 2020.3.10f1 (297d780c91bc)

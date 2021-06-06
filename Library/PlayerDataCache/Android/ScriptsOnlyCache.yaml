@@ -2160,4 +2160,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/StartScreen.unity
   - Assets/Scenes/Scene Type 1.unity
-  playerPath: C:/Users/Peyton/Desktop/RageChess-peyton/test.apk
+  playerPath: C:/Users/kfw2/Unity Projects/RageChess/room-test.apk
