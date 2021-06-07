@@ -6,7 +6,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class NetworkPlayerSpawner : MonoBehaviourPunCallbacks
 {
-    private bool first = true;
+    //private bool first = true;
 
     [SerializeField]
     public float x_Start, y_Start, z_Start;
