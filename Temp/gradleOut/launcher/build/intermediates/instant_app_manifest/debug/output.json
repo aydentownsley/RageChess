@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"0.1.5","enabled":true,"outputFile":"launcher-debug.apk","fullName":"debug","baseName":"debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.DefaultCompany.MulitPlayerGame","split":"","minSdkVersion":"23"}}]

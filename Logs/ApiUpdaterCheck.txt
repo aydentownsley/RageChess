@@ -229,3 +229,183 @@ C# parse time         : 110ms
 candidates check time : 19ms
 console write time    : 0ms
 
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:40:44 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 129.786ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 272ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:42:16 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.427ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 203ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:48:44 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.631ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 202ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:49:16 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 45.654ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 199ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:51:12 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.713ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:52:39 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.184ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:53:30 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43.483ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 202ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:54:48 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.428ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 196ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:57:04 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.791ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:57:17 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43.32ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 216ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:57:39 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 48.242ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:57:55 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 47.286ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:58:16 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59.19ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 200ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:58:44 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 47.813ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 194ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:59:04 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 44.838ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 192ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 1:59:28 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 49.955ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 196ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 2:36:59 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 112.224ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 245ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/8/2021 3:14:30 PM : Starting /Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 101.375ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 245ms
+candidates check time : 42ms
+console write time    : 0ms
+

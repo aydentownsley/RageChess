@@ -1,0 +1,46 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-33683abb80c3040ccb4671d98a116a92
+# Starting compiling UnityEngine.UI.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f3e773e9b907c44b9a20ad1a0f8fb86a
+# Starting compiling PhotonChat.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d80ab5bb031a04ab6b8fd578447ad24f
+# Starting compiling Unity.Timeline.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-29033fda87a8748ae8fabc489e9d9392
+# Starting compiling Unity.TextMeshPro.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-27733686921ca4c8f8db89acd45d2692
+# Starting compiling Unity.Subsystem.Registration.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0ecb518932c4f418b8bd8d6a2986627c
+# Starting compiling Unity.InputSystem.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7e55459abe4e94a9eb32d0efc90c8d3b
+# Starting compiling PhotonRealtime.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4035f4b60a8a74d8ebad234644955438
+# Starting compiling UnityEngine.SpatialTracking.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3c4537d681b234f1fbcdead335abcaa2
+# Starting compiling Unity.XR.Management.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-754054df8129f4fcd854a5e71560e2dc
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8b36980d4f09d496981de07e5f539812
+# Starting compiling PhotonUnityNetworking.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d6ac7e69dcb8e43f39ae07c9019deb95
+# Starting compiling Unity.XR.Interaction.Toolkit.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9aeceba58a03e4ba98e5577619360746
+# Starting compiling Unity.XR.OpenXR.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-77bb7294fae164e47b825acee716024a
+# Starting compiling Unity.XR.Oculus.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e427820c642e64bdeaf2a9b2b7c01e41
+# Starting compiling PhotonUnityNetworking.Utilities.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d268cf1bde73540a6933967dcb755837
+# Starting compiling Unity.XR.OpenXR.Features.MockRuntime.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0b46e789610454c3181812254d229e1b
+# Starting compiling Unity.XR.OpenXR.TestHelpers.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-52fe151bb45e248908920d3cbc8c98aa
+# Starting compiling Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-abb675a6202564ace96c85531528e3b4
+# Starting compiling Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-44ce7525d199a43f2b57043f364b8684
+# Starting compiling Unity.XR.OpenXR.Features.MockDriver.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-523130287c2f34a9d9eda46923dd129b
+# Starting compiling PhotonUnityNetworking.Demos.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-512a840abfeee4a5091a60e9e4b7d993
+# Starting compiling Assembly-CSharp.dll
+/Users/veritas/Unity/2020.3.10f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d2fb200a0677240c3bbc39139e3ff885
