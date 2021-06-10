@@ -40,7 +40,6 @@
 </p>
 
 
-<p align="center">
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -66,7 +65,6 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-</p>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -88,23 +86,13 @@ A list of acknowledgments to the creators who helped blaze the trail for this pr
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Rage Chess was built with:
 * [Unity 2020.3.10](https://unity3d.com/unity/whats-new/2020.3.10)
 * [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Downloading the Code - Prerequisites
-
-If you want to clone the project to view it in the Unity Editor, install Unity version 2020.3.10
-
-
 ### Easy Installation of APK on Quest 2
 
 1. Become an Oculus Developer (anyone can do it!) https://developer.oculus.com/
@@ -112,6 +100,10 @@ If you want to clone the project to view it in the Unity Editor, install Unity v
 3. Save the APK from this repository to your computer
 4. Load the APK onto your device by dragging the APK file from your file manager into the Oculus Developer Hub app under "My Device"
 5. RAGE!
+
+### Downloading the Code - Prerequisites
+
+If you want to clone the project to view it in the Unity Editor, install Unity version 2020.3.10
 
 
 <!-- USAGE EXAMPLES -->
@@ -125,7 +117,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Next Steps
+- [] Improve scoring system
+- [] Implement legal chess moves
+- [X] Voice Chat
 
 
 
@@ -134,12 +129,9 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+Please send us your feedback, suggestions, constructive criticism, or any other input.
+<br>
+Contact information for project creators can be found in the Authors section below.
 
 
 <!-- LICENSE -->
