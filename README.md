@@ -70,7 +70,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About Rage Chess VR :chess_pawn:
+## About RAGE CHESS VR :chess_pawn:
 
 Picture this -- you're in the middle of a chess match and your opponent strikes that sneaky move you should have seen coming.<br>
 What's your emotional impulse?<br>
