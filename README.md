@@ -112,10 +112,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-Next Steps
-- [] Improve scoring system
-- [] Implement legal chess moves
-- [X] Voice Chat
+Next Steps / Stretch Goals
+- [ ] Improve scoring system
+- [ ] Implement legal chess moves
+- [ ] Voice Chat
+- [ ] Additional Room Environments
+- [ ] Customizable Avatars
 
 
 
