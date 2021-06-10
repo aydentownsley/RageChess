@@ -163,11 +163,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Authors
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ayden Townsley - [@whoziwhatzit_](https://twitter.com/whoziwhatzit_) - aydentownsley@gmail.com
+Kyle Whitten - [@kwhit212](https://twitter.com/kwhit212) - gigawhitt@gmail.com
+Peyton Smith - 
+Valerie Nierenberg - [@Val_Gal_Pal_](https://twitter.com/Val_Gal_Pal_) - valerie.nierenberg@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/aydentownsley/RageChess](https://github.com/aydentownsley/RageChess)
 
 
 
