@@ -82,8 +82,8 @@ A list of acknowledgments to the creators who helped blaze the trail for this pr
 
 Rage Chess was built with:
 * [Unity 2020.3.10](https://unity3d.com/unity/whats-new/2020.3.10)
-* [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
 * [Oculus Quest 2](https://www.oculus.com/setup/)
+* [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
 
 
 
