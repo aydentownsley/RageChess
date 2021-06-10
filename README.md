@@ -22,7 +22,7 @@
     <img src="ragechesslogo.png" alt="Logo" width="400" height="300">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+<!--  <h3 align="center">Best-README-Template</h3> -->
 
 <!--
   <p align="center">
@@ -36,11 +36,11 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  </p> -->
 </p>
--->
 
 
+<p align="center">
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -66,7 +66,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
+</p>
 
 
 <!-- ABOUT THE PROJECT -->
