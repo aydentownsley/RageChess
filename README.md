@@ -86,7 +86,7 @@ Rage Chess was built with:
 
 
 <!-- GETTING STARTED -->
-### Installation
+## Installation
 
 Instructions for Easy Installation on Oculus Quest 2:
 1. Become an Oculus Developer (anyone can do it!) https://developer.oculus.com/
