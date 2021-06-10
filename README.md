@@ -50,13 +50,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#installation">Installation</a>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -89,12 +83,14 @@ A list of acknowledgments to the creators who helped blaze the trail for this pr
 Rage Chess was built with:
 * [Unity 2020.3.10](https://unity3d.com/unity/whats-new/2020.3.10)
 * [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
+* [Oculus Quest 2](https://www.oculus.com/setup/)
 
 
 
 <!-- GETTING STARTED -->
-### Easy Installation of APK on Quest 2
+### Installation
 
+Instructions for Easy Installation on Oculus Quest 2:
 1. Become an Oculus Developer (anyone can do it!) https://developer.oculus.com/
 2. Download Oculus Developer Hub to your computer https://developer.oculus.com/documentation/tools/odh/
 3. Save the APK from this repository to your computer
