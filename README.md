@@ -51,7 +51,6 @@
       </ul>
     </li>
     <li><a href="#installation">Installation</a>
-    <li><a href="#downloading the code - prerequisites">Downloading the Code - Prerequisites</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#authors">Authors</a></li>
@@ -95,8 +94,6 @@ Instructions for Easy Installation on Oculus Quest 2:
 3. Save the APK from this repository to your computer
 4. Load the APK onto your device by dragging the APK file from your file manager into the Oculus Developer Hub app under "My Device"
 5. RAGE!
-
-### Downloading the Code - Prerequisites
 
 If you want to clone the project to view it in the Unity Editor, install Unity version 2020.3.10
 
