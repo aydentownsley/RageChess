@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Rage Chess VR :chess:
 
-We've all been there -- you're in the middle of a chess match and your opponent strikes that sneaky move you should have seen coming.<br>
+Picture this -- you're in the middle of a chess match and your opponent strikes that sneaky move you should have seen coming.<br>
 What's your emotional impulse?<br>
 Flip the chess board and let the pieces fly across the room? :boom: <br>
 Break the chess board with a hammer? :hammer: <br>
