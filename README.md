@@ -70,7 +70,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About Rage Chess VR :chess:
+## About Rage Chess VR :chess_pawn:
 
 Picture this -- you're in the middle of a chess match and your opponent strikes that sneaky move you should have seen coming.<br>
 What's your emotional impulse?<br>
@@ -89,9 +89,8 @@ A list of acknowledgments to the creators who helped blaze the trail for this pr
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Unity 2020.3.10](https://unity3d.com/unity/whats-new/2020.3.10)
+* [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
 
 
 
@@ -101,40 +100,27 @@ This section should list any major frameworks that you built your project using.
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Downloading the Code - Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+If you want to clone the project to view it in the Unity Editor, install Unity version 2020.3.10
 
-### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+### Easy Installation of APK on Quest 2
 
+1. Become an Oculus Developer (anyone can do it!) https://developer.oculus.com/
+2. Download Oculus Developer Hub to your computer https://developer.oculus.com/documentation/tools/odh/
+3. Save the APK from this repository to your computer
+4. Load the APK onto your device by dragging the APK file from your file manager into the Oculus Developer Hub app under "My Device"
+5. RAGE!
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!--## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
+-->
 
 <!-- ROADMAP -->
 ## Roadmap
