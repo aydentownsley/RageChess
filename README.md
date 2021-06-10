@@ -73,10 +73,10 @@ Pick up your trusty crossbow and shoot your king into the sky? :bow_and_arrow: <
 <br>
   <i>Now you can!</i>
 <br>
-Rage Chess is a Multiplayer VR game built with Unity that allows users to play chess and express their emotions throughout the game.
-</p>
+<br>Rage Chess is a Multiplayer VR game built with Unity that allows users to play chess and express their emotions throughout the game.<br>
 A list of acknowledgments to the creators who helped blaze the trail for this project can be found at the end of this README.
 :smile:
+  </p>
 
 ### Built With
 
