@@ -63,7 +63,7 @@
 ## About Rage Chess VR :chess_pawn:
 
 <p align=center>
-Picture this...<br>
+  <b>Picture this...</b><br>
 You're in the middle of a chess match and your opponent strikes that sneaky move you should have seen coming.<br>
 What's your emotional impulse?<br>
 Flip the chess board and let the pieces fly across the room? :boom: <br>
