@@ -202,6 +202,6 @@ Project Link: [https://github.com/aydentownsley/RageChess](https://github.com/ay
 [issues-url]: https://github.com/aydentownsley/RageChess/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/aydentownsley/RageChess//blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+<!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 -->
 <!-- [linkedin-url]: https://linkedin.com/in/aydentownsley/ -->
 [product-screenshot]: images/screenshot.png
