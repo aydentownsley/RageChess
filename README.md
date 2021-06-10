@@ -133,7 +133,7 @@ Contact information for project creators can be found in the Authors section bel
 
 * Ayden Townsley - [@whoziwhatzit_](https://twitter.com/whoziwhatzit_) - aydentownsley@gmail.com
 * Kyle Whitten - [@kwhit212](https://twitter.com/kwhit212) - gigawhitt@gmail.com
-* Peyton Smith - 
+* Peyton Smith - [@peytons0606](https://twitter.com/peytons0606) - peyton.smith@holbertonschool.com
 * Valerie Nierenberg - [@Val_Gal_Pal_](https://twitter.com/Val_Gal_Pal_) - valerie.nierenberg@gmail.com
 
 Project Link: [https://github.com/aydentownsley/RageChess](https://github.com/aydentownsley/RageChess)
