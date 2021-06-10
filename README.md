@@ -144,7 +144,12 @@ Project Link: [https://github.com/aydentownsley/RageChess](https://github.com/ay
 ## Acknowledgements
 * [Valem - Youtube Channel](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw)
 * [Justin P. Barnett - Youtube Channel](https://www.youtube.com/channel/UC1yXfU3c2gXchdmscjvCmMQ)
-* [Choose an Open Source License](https://choosealicense.com)
+* [VR with Andrew - Youtube Channel](https://www.youtube.com/channel/UCG8bDPqp3jykCGbx-CiL7VQ)
+* [8K Skybox Pack](https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-skybox-pack-free-150926)
+* [Wooden Crates](https://assetstore.unity.com/packages/3d/props/wooden-crates-16599)
+* [HDRP Furniture Pack](https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946)
+* [Einstein Statue Pack](https://assetstore.unity.com/packages/3d/props/interior/free-statue-pack-152443)
+* [Low Poly Chess Pack](https://assetstore.unity.com/packages/3d/props/low-poly-chess-pack-50405)
 <!--* [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
