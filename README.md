@@ -51,7 +51,7 @@
       </ul>
     </li>
     <li><a href="#installation">Installation</a>
-    <li><a href="#downloading">Downloading the Code - prerequisites</a></li>
+    <li><a href="#downloading the code - prerequisites">Downloading the Code - Prerequisites</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#authors">Authors</a></li>
