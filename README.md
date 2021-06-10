@@ -60,7 +60,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About RAGE CHESS VR :chess_pawn:
+## About Rage Chess VR :chess_pawn:
 
 Picture this...<br>
 You're in the middle of a chess match and your opponent strikes that sneaky move you should have seen coming.<br>
@@ -142,17 +142,17 @@ Project Link: [https://github.com/aydentownsley/RageChess](https://github.com/ay
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
+* [Valem - Youtube Channel](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw)
+* [Justin P. Barnett - Youtube Channel](https://www.youtube.com/channel/UC1yXfU3c2gXchdmscjvCmMQ)
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
+<!--* [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 * [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Font Awesome](https://fontawesome.com)-->
 
 
 
