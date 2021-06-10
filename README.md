@@ -51,11 +51,10 @@
       </ul>
     </li>
     <li><a href="#installation">Installation</a>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#downloading">Downloading the Code - prerequisites</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#authors">Authors</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -128,13 +127,6 @@ Contributions are what make the open source community such an amazing place to b
 Please send us your feedback, suggestions, constructive criticism, or any other input.
 <br>
 Contact information for project creators can be found in the Authors section below.
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
