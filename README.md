@@ -66,10 +66,12 @@
   <b>Picture this...</b><br>
 You're in the middle of a chess match and your opponent strikes that sneaky move you should have seen coming.<br>
 What's your emotional impulse?<br>
+<br>
 Flip the chess board and let the pieces fly across the room? :boom: <br>
 Break the chess board with a hammer? :hammer: <br>
 Pick up your trusty crossbow and shoot your king into the sky? :bow_and_arrow: <br>
-*Now you can!*
+<br>
+  <i>Now you can!</i>
 <br>
 Rage Chess is a Multiplayer VR game built with Unity that allows users to play chess and express their emotions throughout the game.
 </p>
