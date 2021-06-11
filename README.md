@@ -73,7 +73,7 @@ Pick up your trusty crossbow and shoot your king into the sky? :bow_and_arrow: <
 <br>
   <i>Now you can!</i>
 <br>
-<br>Rage Chess is a Multiplayer VR game built with Unity for Oculus Quest 2 that allows users to play chess and express their emotions throughout the game.<br>
+<br>Rage Chess is a Multiplayer VR game that allows users to play chess and express their emotions throughout the game.<br>
 A list of acknowledgments to the creators who helped blaze the trail for this project can be found at the end of this README.
 :smile:
   </p>
@@ -84,7 +84,7 @@ Rage Chess was built with:
 * [Unity 2020.3.10](https://unity3d.com/unity/whats-new/2020.3.10)
 * [Oculus Quest 2](https://www.oculus.com/setup/)
 * [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
-
+* (built with Unity for Oculus Quest 2)
 
 
 <!-- GETTING STARTED -->
