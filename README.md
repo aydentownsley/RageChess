@@ -73,7 +73,7 @@ Pick up your trusty crossbow and shoot your king into the sky? :bow_and_arrow: <
 <br>
   <i>Now you can!</i>
 <br>
-<br>Rage Chess is a Multiplayer VR game built with Unity that allows users to play chess and express their emotions throughout the game.<br>
+<br>Rage Chess is a Multiplayer VR game built with Unity for Oculus Quest 2 that allows users to play chess and express their emotions throughout the game.<br>
 A list of acknowledgments to the creators who helped blaze the trail for this project can be found at the end of this README.
 :smile:
   </p>
@@ -91,7 +91,7 @@ Rage Chess was built with:
 ## Installation
 
 Instructions for Easy Installation on Oculus Quest 2:
-1. Become an Oculus Developer (anyone can do it!) https://developer.oculus.com/
+1. Become an Oculus Developer (any Quest owner can do it!) https://developer.oculus.com/
 2. Download Oculus Developer Hub to your computer https://developer.oculus.com/documentation/tools/odh/
 3. Save the APK from this repository to your computer
 4. Load the APK onto your device by dragging the APK file from your file manager into the Oculus Developer Hub app under "My Device"
