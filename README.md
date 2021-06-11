@@ -124,8 +124,9 @@ Next Steps / Stretch Goals
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Please send us your feedback, suggestions, constructive criticism, or any other input.
+<br>
+When this project reached the size at which it required Github Large File Storage (LFS), the creators switched to working through Unity Collaborate.<br>
+Since contributing directly to this code base through Github would not be an effective way to make updates to the project, please send us your feedback, suggestions, constructive criticism, or any other input.
 <br>
 Contact information for project creators can be found in the Authors section below.
 
