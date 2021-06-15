@@ -141,6 +141,7 @@ Contact information for project creators can be found in the Authors section bel
 * Valerie Nierenberg - [@Val_Gal_Pal_](https://twitter.com/Val_Gal_Pal_) - valerie.nierenberg@gmail.com
 
 Project Link: [https://github.com/aydentownsley/RageChess](https://github.com/aydentownsley/RageChess)
+
 Landing Page: [Rage Chess](https://aydentownsley.github.io/RageChess)
 
 
