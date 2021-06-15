@@ -91,8 +91,8 @@ Rage Chess was built with:
 ## Installation
 
 Instructions for Easy Installation on Oculus Quest 2:
-1. Become an Oculus Developer (anyone can do it!) https://developer.oculus.com/
-2. Download Oculus Developer Hub to your computer https://developer.oculus.com/documentation/tools/odh/
+1. Become an [Oculus Developer](https://developer.oculus.com/) (anyone can do it!)
+2. Download [Oculus Developer Hub](https://developer.oculus.com/documentation/tools/odh/) to your computer
 3. Save the APK from this repository to your computer
 4. Load the APK onto your device by dragging the APK file from your file manager into the Oculus Developer Hub app under "My Device"
 5. RAGE!
