@@ -99,7 +99,7 @@ Instructions for Easy Installation on Oculus Quest 2:
 
 If you want to clone the project to view it in the Unity Editor, install Unity version 2020.3.10
 
-Also, if you want or need to create your own free PhotonPun account to play with an opponent this is the resource we used to set up our online service. [Multiplayer Chess in Unity](https://www.youtube.com/watch?v=loun57ct5nM)
+Also, if you want or need to create your own free PhotonPun account and server to play with an opponent/friend this is the resource we used to set up our online service. [Multiplayer Chess in Unity](https://www.youtube.com/watch?v=loun57ct5nM)
 
 <!-- USAGE EXAMPLES -->
 <!--## Usage
