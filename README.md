@@ -114,7 +114,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Next Steps / Stretch Goals
 - [ ] Improve scoring system
 - [ ] Implement legal chess moves
-- [ ] Voice Chat
+- [x] Voice Chat
 - [ ] Additional Room Environments
 - [ ] Customizable Avatars
 
