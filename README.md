@@ -82,9 +82,11 @@ Pick up your trusty crossbow and shoot your king into the sky? :bow_and_arrow: <
 ### Built With
 
 Rage Chess was built with:
-* [Unity 2020.3.10](https://unity3d.com/unity/whats-new/2020.3.10)
+* [Unity 2021](https://unity3d.com/beta/2021.1a)
 * [Oculus Quest 2](https://www.oculus.com/setup/)
 * [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
+* [Stockfish Chess Engine](https://stockfishchess.org/)
+* [VRIF Virtual Reality Interaction Framework](https://wiki.beardedninjagames.com/#:~:text=Overview%20The%20VR%20Interaction%20Framework%20is%20a%20collection,their%20own%20interactable%20objects%20and%20be%20productive%20quickly.)
 
 
 <!-- GETTING STARTED -->
@@ -93,7 +95,7 @@ Rage Chess was built with:
 Instructions for Easy Installation on Oculus Quest 2:
 1. Become an [Oculus Developer](https://developer.oculus.com/) (anyone can do it!)
 2. Download [Oculus Developer Hub](https://developer.oculus.com/documentation/tools/odh/) to your computer
-3. Save the APK from this repository to your computer
+3. Download the APK from this repository to your computer (found under latest release)
 4. Load the APK onto your device by dragging the APK file from your file manager into the Oculus Developer Hub app under "My Device"
 5. RAGE!
 
@@ -115,6 +117,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Next Steps / Stretch Goals
 - [ ] Improve scoring system
 - [ ] Implement legal chess moves
+- [x] Single Player Mode
 - [x] Voice Chat
 - [ ] Additional Room Environments
 - [ ] Customizable Avatars
