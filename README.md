@@ -73,7 +73,8 @@ Pick up your trusty crossbow and shoot your king into the sky? :bow_and_arrow: <
 <br>
   <i>Now you can!</i>
 <br>
-<br>Rage Chess is a Multiplayer VR game that allows users to play chess and express their emotions throughout the game.<br><br><br>
+<br>Rage Chess is a virtual reality game that allows users to play chess and express their emotions throughout the game.<br><br>
+  Choose single player to try your luck against the Stockfish bot, or choose multiplayer to play with friends!<br><br><br>
 <i>A list of acknowledgments to the creators who helped blaze the trail for this project can be found at the end of this README.
   :smile:</i>
   </p>
