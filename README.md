@@ -82,7 +82,7 @@ Pick up your trusty crossbow and shoot your king into the sky? :bow_and_arrow: <
 ### Built With
 
 Rage Chess was built with:
-* [Unity 2021](https://unity3d.com/beta/2021.1a)
+* [Unity 2020](https://unity3d.com/beta/2021.1a)
 * [Oculus Quest 2](https://www.oculus.com/setup/)
 * [Photon PUN 2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro#:~:text=Photon%20Unity%20Networking%20(PUN)%20is,be%20synced%20over%20the%20network.&text=The%20fast%20and%20(optionally)%20reliable,to%20connect%20one%20to%20one.)
 * [Stockfish Chess Engine](https://stockfishchess.org/)
